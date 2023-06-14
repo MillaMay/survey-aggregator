@@ -1,0 +1,27 @@
+.table-gray-bg {
+    background-color: #ebebeb;
+}
+.thead-bg {
+    background-color: #6c757d;
+    color: white;
+}
+.tbody-bg {
+    background-color: white;
+}
+.td-color {
+    font-weight: bold;
+}
+.answer-item {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.vote-input {
+    width: 60px;
+    margin-left: 10px;
+}
+
+.btn-add-answer {
+    margin-top: 10px;
+}
